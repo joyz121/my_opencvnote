@@ -1,1 +1,0 @@
-Opencv learning notes
